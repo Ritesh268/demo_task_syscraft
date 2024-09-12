@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "232343546552",
+    "project_id": "demoproject-30cc6",
+    "storage_bucket": "demoproject-30cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232343546552:android:7e72abbccb25eabc80e24d",
+        "android_client_info": {
+          "package_name": "com.example.demo_task_syscraft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfawm71AaX_RyKWICC3aqwSa2daTsLKZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232343546552:android:02da88ab170c130d80e24d",
+        "android_client_info": {
+          "package_name": "demo.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfawm71AaX_RyKWICC3aqwSa2daTsLKZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
